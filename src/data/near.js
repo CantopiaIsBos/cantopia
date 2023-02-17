@@ -24,6 +24,7 @@ const MainnetDomains = {
   "near.social": true,
   "social.near.page": true,
   "bos-viewer.pages.dev": true,
+  "cantopia.pages.dev": true,
   localhost: true,
 };
 
