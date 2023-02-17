@@ -36,7 +36,7 @@ yarn start
 
 ## App (frontend) example
 
-Profile view 
+NFT Minting
 
 ```jsx
 const sender = Ethers.send("eth_requestAccounts", [])[0];
