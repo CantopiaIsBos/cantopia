@@ -64,7 +64,8 @@ export const MainNearConfig = {
   wrapNearAccountId: "wrap.near",
   widgets: {
     image: "mob.near/widget/Image",
-    default: "whtt.near/widget/Welcome",
+    // default: "whtt.near/widget/Welcome",
+    default: "mattlock.near/widget/canto-landing-page",
     viewSource: "mob.near/widget/WidgetSource",
     widgetMetadataEditor: "whtt.near/widget/WidgetMetadataEditor",
     widgetMetadata: "mob.near/widget/WidgetMetadata",
