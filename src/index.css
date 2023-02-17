@@ -87,3 +87,7 @@ input, select, .form-control {
 .mb-2 {
   color:rgb(6, 252, 153) !important;
 }
+
+.container.fluid {
+  max-width: none !important;
+}

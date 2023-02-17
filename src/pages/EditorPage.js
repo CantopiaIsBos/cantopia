@@ -655,7 +655,7 @@ export default function EditorPage(props) {
                   : "visually-hidden"
               }`}
             >
-              <div className="container">
+              <div className="container fluid">
                 <div className="row">
                   <div className="d-inline-block position-relative overflow-hidden">
                     {renderCode ? (
@@ -676,7 +676,7 @@ export default function EditorPage(props) {
                 tab === Tab.Metadata ? layoutClass : "visually-hidden"
               }`}
             >
-              <div className="container">
+              <div className="container fluid">
                 <div className="row">
                   <div className="d-inline-block position-relative overflow-hidden">
                     <Widget

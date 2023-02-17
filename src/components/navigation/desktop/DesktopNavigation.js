@@ -60,7 +60,7 @@ const StyledNavigation = styled.div`
 export function DesktopNavigation(props) {
   return (
     <StyledNavigation>
-      <div className="container">
+      <div className="container fluid">
         <Link to="/" className="logo-link">
           <Logotype />
         </Link>
