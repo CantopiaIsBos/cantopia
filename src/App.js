@@ -127,6 +127,11 @@ function App(props) {
           </Route>
         </Switch>
       </Router>
+      <footer>
+        <a href={window.location.origin + '/assets/cantopia-pp.pdf'} target="_blank">Privacy Policy</a>
+        &nbsp;-&nbsp;
+        <a href={window.location.origin + '/assets/cantopia-tos.pdf'} target="_blank">Terms of Service</a>
+        </footer>
     </div>
   );
 }
